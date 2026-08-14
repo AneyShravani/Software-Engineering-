@@ -1,0 +1,21 @@
+1.	Open StarUML. 
+2.	Create a New Project. 
+3.	Add a Data Flow Diagram (DFD). 
+4.	Draw Level 0 DFD: 
+    o	Add process: Multi Language Learner Platform. 
+    o	Add external entities: Student, Instructor, Admin. 
+    o	Connect them using appropriate data flows. 
+5.	Draw Level 1 DFD: 
+    o	Add processes: 
+          	1.1 User Management 
+          	1.2 Course Management 
+          	1.3 Quiz Management 
+          	1.4 Progress Tracking 
+          	1.5 Admin Management 
+    o	Add data stores: 
+          	D1 User Database 
+          	D2 Course Database 
+          	D3 Quiz Database 
+          	D4 Progress Database 
+    o	Connect entities, processes, and data stores with labeled data flows. 
+6.	Verify all processes, data stores, and data flows are correctly connected and labeled.
